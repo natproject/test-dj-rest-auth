@@ -1,1 +1,1 @@
-# test-dj-rest-auth
+# CONFIGURAR PROYECTO DJ-REST-AUTH
